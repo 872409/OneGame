@@ -23,6 +23,8 @@ https://gitee.com/Bigotry/OneGame
 
 ![OneGame-游戏](https://images.gitee.com/uploads/images/2019/0309/133416_da47ea0d_917834.png "yx.png")
 
+![OneGame-手游](https://images.gitee.com/uploads/images/2019/0313/103445_5360b62a_917834.png "手游.png")
+
 ![OneGame-首页](https://images.gitee.com/uploads/images/2019/0309/133328_3c500ad9_917834.png "首页.png")
 
 ![OneGame-礼包](https://images.gitee.com/uploads/images/2019/0309/133343_bc041f02_917834.png "礼包.png")
